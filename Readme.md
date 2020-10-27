@@ -5,7 +5,7 @@ I'm a Developer and a Computer Science Engineering student at Dr. A P J Abdul Ka
 
 - 🌱 I’m currently learning Flutter 🤣
 - 🌱 I’m currently working on a project based on File Encryption/Decryption  
-- ⚡ Fun fact: I love to write blogs on programming and coding
+- ⚡ Fun fact: I love to write blogs on programming and coding ✍
 
 ## [My Blogs](https://www.techiessphere.com/)
 
