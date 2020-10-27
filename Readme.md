@@ -7,11 +7,11 @@ I'm a Developer and a Computer Science Engineering student at Dr. A P J Abdul Ka
 - 🌱 I’m currently working on a project based on File Encryption/Decryption  
 - ⚡ Fun fact: I love to write blogs on programming and coding ✍
 
-
-### Read My Blogs at [Techies Sphere](https://www.techiessphere.com/)
-
 ****
 <br/>
+
+
+### Read My Blogs at [Techies Sphere](https://www.techiessphere.com/)
 
 ### Connect with me:
 
@@ -39,6 +39,5 @@ I'm a Developer and a Computer Science Engineering student at Dr. A P J Abdul Ka
 <br/>
 
 ****
-<br/>
 
 ![sadow984's github stats](https://github-readme-stats.vercel.app/api?username=sadow984)
