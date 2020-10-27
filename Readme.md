@@ -26,8 +26,8 @@ I'm a Developer and a Computer Science Engineering student at Dr. A P J Abdul Ka
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Flutter" width="40px" src="https://flutterawesome.com/content/images/2018/11/flutter_svg.jpg">
+<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Flutter" width="42px" src="https://flutterawesome.com/content/images/2018/11/flutter_svg.jpg">
 <img align="left" alt="Python" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
 <img align="left" alt="C++" width="28px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" />
 <img align="left" alt="Java" width="20px" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" />
