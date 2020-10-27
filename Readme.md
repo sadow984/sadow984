@@ -9,7 +9,7 @@ I'm a Developer and a Computer Science Engineering student at Dr. A P J Abdul Ka
 
 <br />
 
-## [My Blogs](https://www.techiessphere.com/)
+# [Read My Blogs](https://www.techiessphere.com/)
 
 
 ### Connect with me:
