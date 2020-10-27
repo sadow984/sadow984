@@ -9,7 +9,7 @@ I'm a Developer and a Computer Science Engineering student at Dr. A P J Abdul Ka
 
 <br />
 
-# [Read My Blogs](https://www.techiessphere.com/)
+### [Read My Blogs](https://www.techiessphere.com/)
 
 
 ### Connect with me:
@@ -35,4 +35,6 @@ I'm a Developer and a Computer Science Engineering student at Dr. A P J Abdul Ka
 <img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br/>
 
+[![sadow984's github stats](https://github-readme-stats.vercel.app/api?username=sadow984)]
