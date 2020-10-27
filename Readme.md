@@ -7,9 +7,10 @@ I'm a Developer and a Computer Science Engineering student at Dr. A P J Abdul Ka
 - 🌱 I’m currently working on a project based on File Encryption/Decryption  
 - ⚡ Fun fact: I love to write blogs on programming and coding ✍
 
+<br />
+
 ## [My Blogs](https://www.techiessphere.com/)
 
-<br />
 
 ### Connect with me:
 
@@ -21,5 +22,8 @@ I'm a Developer and a Computer Science Engineering student at Dr. A P J Abdul Ka
 
 ### Languages and Tools:
 
-![VS Code](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png)
-
+<img align="left" pointer-events="none" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
+[<img align="left" alt="Flutter" width="26px" src="https://flutterawesome.com/content/images/2018/11/flutter_svg.jpg">]
